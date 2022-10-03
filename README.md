@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alekione
 - 👀 I’m interested in ???????
-- 🌱 I’m currently learning Computer science.
+- 🌱 I’m currently learning Software Engeneering.
 - 💞️ I’m looking to collaborate on any projects available
 - 📫 How to reach me: Email: lexa9448@gmail.com.
 
