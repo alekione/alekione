@@ -2,7 +2,7 @@
 - 👀 I’m interested in ???????
 - 🌱 I’m currently learning Computer science.
 - 💞️ I’m looking to collaborate on any projects available
-- 📫 How to reach me: leave a message here and I'll get back to you.
+- 📫 How to reach me: Email: lexa9448@gmail.com.
 
 <!---
 alekione/alekione is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
